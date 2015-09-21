@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vjobanputra/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-4476d1ff52d1df58f47d53ff7e50a698fff9c130.jar" />
+    </item>
+    <item
+        jar="/Users/vjobanputra/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-4f16d2c92f5d9159eac4d6f9e0e941c180eaebda.jar" />
+    </item>
+    <item
+        jar="/Users/vjobanputra/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-1bfc9d6f3fe1ed1d65446e6c8f0a7fdedd44fd81.jar" />
+    </item>
+    <item
+        jar="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/classes-76e3105ef3cd4b4a3b8a9e55754ff49592e39436.jar" />
+    </item>
+    <item
+        jar="/Users/vjobanputra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-5f0dffcc51f961902a9afeecb700fb7520bd9471.jar" />
+    </item>
+    <item
+        jar="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-ef38fea6c93f3952750a98699614148879dacabd.jar" />
+    </item>
+    <item
+        jar="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/vjobanputra/StudioProjects/InstagramClient/app/build/intermediates/pre-dexed/debug/classes-bd675ab24ac0555626dd62b2ee65d0a2071f5e52.jar" />
+    </item>
+
+</items>
